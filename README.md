@@ -10,7 +10,7 @@ In the meantime don't forget to grab [Seclists](https://github.com/danielmiessle
 
 ## Getting Started
 
-git clone
+git clone https://github.com/GainSec/TreeHouse-Wordlists
 
 ## Authors
 
