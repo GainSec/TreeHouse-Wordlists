@@ -4,7 +4,7 @@
 
 Collection of Wordlists/Payloads to suit any penetration testers needs. 
 
-For now it is just four custom wordlists but stay tuned for the rest of the custom wordlists from TreeHouse-Wordlists. I also added Blasting DB/Dictionary because I couldn't find it on GitHub easily. 
+For now it is just a handful of custom wordlists but stay tuned for the rest of the custom wordlists from TreeHouse-Wordlists. I also added Blasting DB/Dictionary because I couldn't find it on GitHub easily. 
 
 In the meantime don't forget to grab [Seclists](https://github.com/danielmiessler/SecLists), [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) and [payloads](https://github.com/foospidy/payloads).
 
@@ -19,6 +19,8 @@ git clone
 * **PayloadAllTheThings** - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * **FuzzDB** - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 * **payloads** [payloads](https://github.com/foospidy/payloads)
+* **ssti-payloads** [ssti-payloads](https://github.com/payloadbox/ssti-payloads)
+* **xxe-injection-payload-list** [xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list)
 * **Blasting Dictionary**
 
 ## License

