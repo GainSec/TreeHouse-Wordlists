@@ -4,7 +4,9 @@
 
 Collection of Wordlists/Payloads to suit any penetration testers needs. 
 
-For now it is just one Custom IIS SystemWeb Wordlist but stay tuned for the rest of TreeHouse-Wordlists.
+For now it is just four custom wordlists but stay tuned for the rest of the custom wordlists from TreeHouse-Wordlists. I also added Blasting DB/Dictionary because I couldn't find it on GitHub easily. 
+
+In the meantime don't forget to grab [Seclists](https://github.com/danielmiessler/SecLists), [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) and [Payloads](https://github.com/foospidy/payloads).
 
 ## Getting Started
 
@@ -13,10 +15,11 @@ git clone
 ## Authors
 
 * **Jon Gaines** - *Initial work* - [GainSec](https://github.com/GainSec)
-* **SecLists**
-* **PayloadAllTheThings**
-* **FuzzDB**
-* **Blasting DB**
+* **SecLists** - [Seclists](https://github.com/danielmiessler/SecLists)
+* **PayloadAllTheThings** - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* **FuzzDB** - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
+* **payloads** [payloads](https://github.com/foospidy/payloads)
+* **Blasting Dictionary**
 
 ## License
 
