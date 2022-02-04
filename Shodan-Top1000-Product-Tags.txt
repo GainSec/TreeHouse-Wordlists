@@ -1,0 +1,1000 @@
+2Wire HomePortal touer http config
+3Proxy http proxy
+3S-Smart Software Solutions
+ABUS IP Camera
+Abyss httpd
+Access Remote PC smtpd
+ADB P.DG A4001N WAP, Cisco Telepresence MCU 4505, or Digifort Enterprise 6.5 httpd
+ADT DVR
+Advanced Message Queue Protocol
+AE Server
+Aethra Telecommunications PBX
+AG5-HP
+Agranat-EmWeb
+airCube ISP
+AirPlay
+AirSpace DVR
+AkamaiGHost
+Alibaba Cloud Object Storage Service
+Alibi IP Camera
+Allegro RomPager
+Allworx 6x VoIP phone smtpd
+alphapd
+Alt-N MDaemon mail server
+ALT-N SecurityGateway smtpd
+Amazon S3 httpd
+Amcrest DVR
+Android Debug Bridge (ADB)
+AOLserver httpd
+Apache Advanced Extranet Server httpd
+Apache httpd
+Apache Tomcat
+Apache Tomcat/Coyote JSP engine
+APC AOS cryptlib sshd
+Apexis APM-H803-MPC
+Apple AirPlay httpd
+Apple AirPort
+Apple Remote Desktop
+Apple remote desktop vnc
+ARK: Survival Evolved
+ARRIS NVG443B NVG443B
+ARRIS NVG468MQ NVG468MQ
+Asterisk
+Asterisk Call Manager
+Asterisk PBX
+Asterisk PBX 16.8.0-7.8.2.rl.102379.2032957
+ASUS Wireless Router 4G-AC68U
+ASUS Wireless Router BLUE CAVE
+ASUS Wireless Router BLUE_CAVE
+ASUS Wireless Router çµèAXé­æ¹
+ASUS Wireless Router DSL-AC68U
+ASUS Wireless Router DSL-AX5400
+ASUS Wireless Router DSL-AX82U
+ASUS Wireless Router GS-AX5400
+ASUS Wireless Router GT-AC2900
+ASUS Wireless Router GT-AC5300
+ASUS Wireless Router GT-AX11000
+ASUS Wireless Router GT-AXE11000
+ASUS Wireless Router Lyra
+ASUS Wireless Router Lyra Trio
+ASUS Wireless Router Lyra_Trio
+ASUS Wireless Router R6300V2
+ASUS Wireless Router R7000
+ASUS Wireless Router RT-AC1200
+ASUS Wireless Router RT-AC1200G+
+ASUS Wireless Router RT-AC1200GU
+ASUS Wireless Router RT-AC1200 V2
+ASUS Wireless Router RT-AC1200_V2
+ASUS Wireless Router RT-AC1300GPLUS
+ASUS Wireless Router RT-AC1300G PLUS V3
+ASUS Wireless Router RT-AC1300UHP
+ASUS Wireless Router RT-AC1500G PLUS
+ASUS Wireless Router RT-AC1500UHP
+ASUS Wireless Router RT-AC1750 B1
+ASUS Wireless Router RT-AC1750U
+ASUS Wireless Router RT-AC1900P
+ASUS Wireless Router RT-AC1900U
+ASUS Wireless Router RT-AC2600
+ASUS Wireless Router RT-AC2900
+ASUS Wireless Router RT-AC3100
+ASUS Wireless Router RT-AC3200
+ASUS Wireless Router RT-AC51
+ASUS Wireless Router RT-AC51U
+ASUS Wireless Router RT-AC53
+ASUS Wireless Router RT-AC5300
+ASUS Wireless Router RT-AC56U
+ASUS Wireless Router RT-AC57U
+ASUS Wireless Router RT-AC57U V2
+ASUS Wireless Router RT-AC57U V3
+ASUS Wireless Router RT-AC58U
+ASUS Wireless Router RT-AC58U V2
+ASUS Wireless Router RT-AC58U V3
+ASUS Wireless Router RT-AC59U
+ASUS Wireless Router RT-AC59U V2
+ASUS Wireless Router RT-AC65P
+ASUS Wireless Router RT-AC65U
+ASUS Wireless Router RT-AC66R
+ASUS Wireless Router RT-AC66U
+ASUS Wireless Router RT-AC66U B1
+ASUS Wireless Router RT-AC66U_B1
+ASUS Wireless Router RT-AC67U
+ASUS Wireless Router RT-AC68P
+ASUS Wireless Router RT-AC68R
+ASUS Wireless Router RT-AC68U
+ASUS Wireless Router RT-AC750
+ASUS Wireless Router RT-AC750L
+ASUS Wireless Router RT-AC85P
+ASUS Wireless Router RT-AC85U
+ASUS Wireless Router RT-AC86U
+ASUS Wireless Router RT-AC87R
+ASUS Wireless Router RT-AC87U
+ASUS Wireless Router RT-AC88U
+ASUS Wireless Router RT-ACRH13
+ASUS Wireless Router RT-ACRH17
+ASUS Wireless Router RT-AX1800 Plus
+ASUS Wireless Router RT-AX3000
+ASUS Wireless Router RT-AX55
+ASUS Wireless Router RT-AX56U
+ASUS Wireless Router RT-AX56U V2
+ASUS Wireless Router RT-AX58U
+ASUS Wireless Router RT-AX68U
+ASUS Wireless Router RT-AX82U
+ASUS Wireless Router RT-AX86S
+ASUS Wireless Router RT-AX86U
+ASUS Wireless Router RT-AX88U
+ASUS Wireless Router RT-AX89X
+ASUS Wireless Router RT-AX92U
+ASUS Wireless Router RT-N11P
+ASUS Wireless Router RT-N12+
+ASUS Wireless Router RT-N12D1
+ASUS Wireless Router RT-N12E
+ASUS Wireless Router RT-N12HP_B1
+ASUS Wireless Router RT-N12 VP
+ASUS Wireless Router RT-N12VP
+ASUS Wireless Router RT-N14UHP
+ASUS Wireless Router RT-N16
+ASUS Wireless Router RT-N18U
+ASUS Wireless Router RT-N19
+ASUS Wireless Router RT-N56U
+ASUS Wireless Router RT-N600RU
+ASUS Wireless Router RT-N66R
+ASUS Wireless Router RT-N66U
+ASUS Wireless Router TUF-AX3000
+ASUS Wireless Router TUF-AX5400
+ASUS Wireless Router ZenWiFi AC
+ASUS Wireless Router ZenWiFi AC Mini
+ASUS Wireless Router ZenWiFi AX
+ASUS Wireless Router ZenWiFi AX Mini
+ASUS Wireless Router ZenWiFi ET8
+ASUS Wireless Router ZenWiFi XD6
+AudioCodes MP-124 SIP gateway sshd
+AVM FRITZ!Box Fon WLAN 7050 SIP
+AVM FRITZ!Box Fon WLAN 7112 SIP
+AVM FRITZ!Box Fon WLAN 7113 SIP
+AVM FRITZ!Box Fon WLAN 7141 SIP
+AVM FRITZ!Box Fon WLAN 7170 29.04.88 SIP
+AVM FRITZ!Box Fon WLAN 7170 Annex A SIP
+AVM FRITZ!Box Fon WLAN 7170 SIP
+AVM FRITZ!Box Fon WLAN 7270 v3 SIP
+AVM FRITZ!Box Fon WLAN 7360 SIP
+AVM FRITZ!Box Fon WLAN 7390 SIP
+AVM FRITZ!Box Fon WLAN 7570 vDSL SIP
+Avtech AVN801 network camera
+AWS ELB
+axhttpd Web Server
+Axigen smtpd
+Balance Servers TCAdmin game hosting ftpd
+Barracuda Networks Spam Firewall smtpd
+BaseHTTPServer
+Belkin Wemo Insight 1.0
+bftpd
+BGP
+BigIP
+Blue Server
+Boa HTTPd
+Boa Web Server
+Brother/HP printer ftpd
+Caddy
+Canon printer web interface
+Cassandra
+CCProxy http proxy
+CentOS router 1
+Cerberus FTP Server
+Check Point Firewall-1 ftpd
+Check Point SVN foundation httpd
+CherryPy httpd
+ChipPC Extreme httpd
+Chromecast
+Cisco/3com IPSSHd
+Cisco catalyst switch telnetd
+Cisco IOS http config
+Cisco IronPort C160 firewall smtpd
+Cisco PIX sanitized smtpd
+Cisco router daytime
+Cisco router telnetd
+Cisco Umbrella
+Citadel smtpd
+Citrix Metaframe ICA Browser
+CJServer
+ClamAV
+Clare Control IP Camera
+CloudFlare
+cloudflare-nginx
+CloudFront httpd
+CloudHub Dedicated Load Balancers
+Cobalt Strike Beacon
+Comel LLC WR-N300LR 39.102.1
+CommuniGate Pro
+CommuniGate Pro httpd
+Communigate Pro SMTP
+Conan Exiles
+Conexant-EmWeb
+Connectra Check Point Web Security httpd
+Consul
+CoreFTP sshd
+CouchDB
+Counter-Strike
+Counter-Strike: Global Offensive
+Counter-Strike: Source
+CP
+CP4-
+CP Plus CP-UVR-0801E1-CS
+CP Plus CP-UVR-1601E1-HC
+CP Plus DVR
+Cross Web Server
+CUPS (IPP)
+Cyrus imapd
+Cyrus pop3d
+Dahua-based DVR
+Dahua-based HCVR
+Dahua-based Hybrid recorder
+Dahua-based Network recorder
+Dahua-based NVR
+Dahua-based XVR
+Dahua DH/HCVR4104HS-V4/-AF-DVR-II-A/4-1
+Dahua DH-HCVR5104HS-S3
+Dahua DH-HCVR5108HS-S3
+Dahua DH/HCVR5108HS-V4/-AF-DVR-II-A/8-1
+Dahua DHI-HCVR4104C-S3
+Dahua DHI-HCVR4104C-S3-N
+Dahua DHI-HCVR4104HS-S3
+Dahua DHI-HCVR4108C-S3
+Dahua DHI-HCVR4108HS-S3
+Dahua DHI-HCVR4116HS-S3
+Dahua DHI-HCVR5104HS-S3
+Dahua DHI-HCVR5108HS-S3
+Dahua DHI-HCVR5116HS-S3
+Dahua DHI-HCVR5216A-S3
+Dahua DHI-HCVR7104H-4M
+Dahua DHI-HCVR7108H-4M
+Dahua DHI-HCVR7216AN-4M
+Dahua DHI-NVR1108HS-S3/H
+Dahua DHI-NVR2104HS-4KS2
+Dahua DHI-NVR2104HS-P-4KS2
+Dahua DHI-NVR2104-P-4KS2
+Dahua DHI-NVR2108-8P-4KS2
+Dahua DHI-NVR2108HS-4KS2
+Dahua DHI-NVR2108HS-8P-4KS2
+Dahua DHI-NVR2116HS-4KS2
+Dahua DHI-NVR410
+Dahua DHI-NVR4104HS-4KS2
+Dahua DHI-NVR4104HS-P-4KS2
+Dahua DHI-NVR4104-P-4KS2
+Dahua DHI-NVR4108-8P-4KS2
+Dahua DHI-NVR4108HS-4KS2
+Dahua DHI-NVR4108HS-4KS2/L
+Dahua DHI-NVR4108HS-8P-4KS2
+Dahua DHI-NVR4108HS-8P-4KS2/L
+Dahua DHI-NVR4108-P-4KS2
+Dahua DHI-NVR4116HS-4KS2
+Dahua DHI-NVR4116HS-4KS2/L
+Dahua DHI-NVR4204-P-4KS2
+Dahua DHI-NVR4208-4KS2
+Dahua DHI-NVR4208-8P-4KS2
+Dahua DHI-NVR4216-16P-4KS2
+Dahua DHI-NVR4216-16P-4KS2/L
+Dahua DHI-NVR4216-4KS2
+Dahua DHI-NVR4216-4KS2/L
+Dahua DHI-NVR4232-4KS2
+Dahua DHI-NVR4416-16P-4KS2
+Dahua DHI-NVR4432-4KS2
+Dahua DHI-NVR5208-4KS2
+Dahua DHI-NVR5208-8P-4KS2
+Dahua DHI-NVR5208-8P-4KS2E
+Dahua DHI-NVR5216-16P-4KS2
+Dahua DHI-NVR5216-16P-4KS2E
+Dahua DHI-NVR5216-4KS2
+Dahua DHI-NVR5232-4KS2
+Dahua DHI-NVR5432-4KS2
+Dahua DHI-NVR5864-4KS2
+Dahua DHI-NVR608-32-4KS2
+Dahua DHI-XVR4104C
+Dahua DHI-XVR4104C-N
+Dahua DHI-XVR4104C-S2
+Dahua DHI-XVR4104HS
+Dahua DHI-XVR4104HS-S2
+Dahua DHI-XVR4108C
+Dahua DHI-XVR4108C-S2
+Dahua DHI-XVR4108HS
+Dahua DHI-XVR4108HS-S2
+Dahua DHI-XVR4116HS
+Dahua DHI-XVR4116HS-S2
+Dahua DHI-XVR5104C
+Dahua DHI-XVR5104C-S2
+Dahua DHI-XVR5104HS
+Dahua DHI-XVR5104HS-4M
+Dahua DHI-XVR5104HS-S2
+Dahua DHI-XVR5108C-S2
+Dahua DHI-XVR5108HS
+Dahua DHI-XVR5108HS-4KL
+Dahua DHI-XVR5108HS-S2
+Dahua DHI-XVR5116H-4KL
+Dahua DHI-XVR5116HE
+Dahua DHI-XVR5116HE-S2
+Dahua DHI-XVR5116HS
+Dahua DHI-XVR5116HS-S2
+Dahua DHI-XVR5216A
+Dahua DHI-XVR5216AN
+Dahua DHI-XVR5216AN-4KL
+Dahua DHI-XVR5216AN-S2
+Dahua DHI-XVR5216A-S2
+Dahua DHI-XVR5432L
+Dahua DH-NVR4108HS-4KS2
+Dahua DH-NVR4216-4KS2
+Dahua DH-NVR608-32-4KS2
+Dahua DH-XVR1A04
+Dahua DH-XVR1A08
+Dahua DH-XVR1B04
+Dahua DH-XVR1B04H
+Dahua DH-XVR1B04-I
+Dahua DH-XVR1B08
+Dahua DH-XVR1B08H
+Dahua DH-XVR1B08-I
+Dahua DH-XVR1B16
+Dahua DH-XVR1B16H
+Dahua DH-XVR1B16-I
+Dahua DH-XVR4104C-X1
+Dahua DH-XVR4104HS-X
+Dahua DH-XVR4104HS-X1
+Dahua DH-XVR4108C-X1
+Dahua DH-XVR4108HS-X
+Dahua DH-XVR4108HS-X1
+Dahua DH-XVR4116HS-X
+Dahua DH-XVR4232AN-X
+Dahua DH-XVR5104C-4KL-X
+Dahua DH-XVR5104C-X1
+Dahua DH-XVR5104H-4KL-X
+Dahua DH-XVR5104HE-X1
+Dahua DH-XVR5104HS-4KL-I2
+Dahua DH-XVR5104HS-4KL-X
+Dahua DH-XVR5104HS-I2
+Dahua DH-XVR5104HS-I3
+Dahua DH-XVR5104HS-X
+Dahua DH-XVR5104HS-X1
+Dahua DH-XVR5108C-X
+Dahua DH-XVR5108H-4KL-X
+Dahua DH-XVR5108HE-X
+Dahua DH-XVR5108HS-4KL-I2
+Dahua DH-XVR5108HS-4KL-X
+Dahua DH-XVR5108HS-I2
+Dahua DH-XVR5108HS-I3
+Dahua DH-XVR5108HS-X
+Dahua DH-XVR5108H-X
+Dahua DH-XVR5116H-4KL-X
+Dahua DH-XVR5116HE-X
+Dahua DH-XVR5116HS-I2
+Dahua DH-XVR5116HS-X
+Dahua DH-XVR5116H-X
+Dahua DH-XVR5208AN-4KL-X
+Dahua DH-XVR5216AN-4KL-X
+Dahua DH-XVR5216AN-X
+Dahua DH-XVR5216A-X
+Dahua DH-XVR5232AN-X
+Dahua DH-XVR5432L-X
+Dahua DH-XVR7104HE-4KL-X
+Dahua DH-XVR7216A-4KL-X
+Dahua DV908
+Dahua DVR
+Dahua HCVR
+Dahua HRHT416*
+Dahua IP2M-841B
+Dahua IP Camera
+Dahua MHDX 1116
+Dahua N41B1P2
+Dahua N41B2P2
+Dahua N52B3P4
+Dahua NV4108E-HS
+Dahua NVR
+Dahua NVR4216-4KS2
+Dahua NVR4X-4KS2
+Dahua NVR-P
+Dahua PC-NVR-V3.0
+Dahua SD
+Dahua TI810X|0
+Dahua VTO2000A
+Dahua XVR
+Dahua XVR5104C-X1
+Dahua XVR5104HS-X1
+Dahua XVR5108HS-X
+Dahua XVR5116HS-X
+DASAN H660GM
+DDoS-Guard
+DD-WRT milli_httpd
+Debut embedded httpd
+DIN-AP
+D-Link/Airlink IP webcam http config
+D-Link DCS-2630L
+D-Link DCS-5020L webcam http interface
+D-Link DCS-5211L
+D-Link DCS-5222L
+D-Link DCS-8000LH
+D-Link DCS-825L
+D-Link DCS-855L
+D-Link DCS-930LB1 webcam http interface
+D-Link DCS-930L webcam http interface
+D-Link DCS-932LB1 webcam http interface
+D-Link DCS-932L webcam http interface
+D-Link DCS-933L webcam http interface
+D-Link DCS-936L
+D-Link DCS-942L
+D-Link DCS-942LB1
+D-Link DIR-600 WAP http config
+D-Link DLS-2750U ftp firmward update
+Domoticz
+Dovecot imapd
+Dovecot pop3d
+DrayTek Vigor 2820 ADSL router ftpd
+DrayTek Vigor 2820n ADSL router sshd
+Drcom Server Process Launcher
+Dropbear sshd
+Dummy
+DVR
+Echo
+EdgePrism
+EFM Networks ipTIME N604R 1
+Elastic
+Elastichoney
+EnGenius_Router
+Erlang Port Mapper Daemon
+ERLite-3
+ER-X
+ESET NOD32 anti-virus smtp proxy
+etcd
+Ethereum Discovery Protocol
+Exim smtpd
+EZproxy web proxy
+Famatech Radmin
+FarmingSimulator2022
+FileZilla ftpd
+FortiGate Endpoint Control httpd
+Fortinet VPN/firewall sshd
+FPBX
+Freebox ftpd
+FreeBSD ftpd
+FRITZ!Box Fon WLAN 7360 WAP ftpd
+FRITZ!Box Fon WLAN 7390 WAP ftpd
+Ganglia XML Grid monitor
+Gearman
+Gene6 ftpd
+Genome Variation Server
+GeoVision GeoHttpServer for webcams
+Geth
+GNU Httptunnel
+GNU Inetutils FTPd
+GoAhead Embedded Web Server
+GoAhead-Webs
+GoAhead-Webs embedded httpd
+GoAhead-Webs httpd
+Google gsmtp
+GPRS Tunneling Protocol
+Grafana
+Grafana (Enterprise)
+Grafana (Open Source)
+gSOAP soap
+Gunicorn
+HandPunch 2000
+Haproxy http proxy
+Hikvision IP Camera
+hmhttpd
+Home Assistant
+Homebridge
+Honeywell DVR
+HP iLO
+HP Integrated Lights-Out mpSSH
+HttpFileServer httpd
+Hydra
+IBM DB2 Database Server
+IBM HTTP Server
+IBM WebSphere Application Server
+iBoss Cloud
+Icecast streaming media server
+IceWarp smtpd
+IC Realtime HAVR
+IC Realtime NVR7000K
+IdeaWebServer httpd
+IMail imapd
+IMail NT-ESMTP
+Imunify360 Webshield
+Indy
+Indy httpd
+InfluxDB
+Information Security
+InspIRCd
+Intelbras HDCVI 1004 - Geração 2
+Intelbras HDCVI 1008 - Geração 2
+Intelbras HDCVI 1016 - Geração 2
+Intelbras MHDX 1004
+Intelbras MHDX 1008
+Intelbras MHDX 1016
+Intelbras MHDX 1104
+Intelbras MHDX 1108
+Intelbras MHDX 1116
+Intelbras MHDX 1132
+Intelbras MHDX 1216
+Intelbras MHDX 3008
+Intelbras MHDX 3016
+Intelbras MHDX 3104
+Intelbras MHDX 3108
+Intelbras MHDX 3116
+Intelbras MHDX 5016
+Internet Authentication Service
+Internet Communications Engine
+InterNiche Technologies WebServer
+Intoto httpd
+InVid Tech IP Camera
+ioBroker
+IPBX-2.11.0(11.25.3)
+IPBX-2.11.0(16.7.0)
+IP Camera
+iPlanet web proxy
+IronPort AsyncOS http config
+Istio Service Mesh
+Jeedom
+Jetty
+Junoscript XML Interface
+Justin Maggard Windows Media Connect compatible (MiniDLNA) 1
+Kafka
+Kangle Web Server
+KB Vision DVR
+KB Vision HCVR
+KB Vision NVR
+KB Vision XVR
+Kerio Connect nntpd
+Kerio Connect smtpd
+Kerio Connect webmail httpd
+Kestrel
+Kittenx
+KMW Systems KM-DVR6108-4KL
+kngx
+Knopflerfish httpd
+Kong Gateway
+KT&amp;C IP Camera
+Kubernetes
+LANCOM Server
+lancom sshd
+Lantronix
+Lantronix X90
+LAP
+LAP-HP
+LB5
+LC5
+Lego Server
+LG webOS TV
+libssh
+libwww-perl-daemon httpd
+lighttpd
+Linksys wireless-G WAP http config
+Linksys WRT45G modified dropbear sshd
+Linksys WRT54GL wireless-G router http config
+Linksys WRT OpenWrt http config
+Linux SNMP multiplexer
+Linux UPnP IGD Project IGD Version 1.00
+LiteSpeed httpd
+LM2
+LM5
+Lorex D841A8
+Lorex D861A8
+Lorex DVR
+Lorex HCVR
+Lorex LNR6108
+Lorex LNR616
+Lorex N841A8
+Lotus Domino httpd
+Lotus Domino smtpd
+Luma IP Camera
+Lyris ListManager smtpd
+ M5T SIP Stack/4.1.2.2
+MailEnable POP3 Server
+MailEnable smptd
+mailfront smtpd
+Mathopd httpd
+Mbedthis Appweb
+MC
+MDaemon pop3d
+MDaemon smtpd
+mDNS
+Memcached
+Merak Mail Server smtpd
+micro_httpd
+Microsoft
+Microsoft Azure Application Gateway
+Microsoft Distributed Transaction Coordinator
+Microsoft ESMTP
+Microsoft Exchange 2010 smtpd
+Microsoft Exchange smtpd
+Microsoft ftpd
+Microsoft HTTPAPI httpd
+Microsoft IIS
+Microsoft IIS httpd
+Microsoft ISA httpd
+Microsoft RPC Endpoint Mapper
+Microsoft SQL Server
+Microsoft Windows International daytime
+Microsoft Windows Media Player Sharing 3.0
+Microsoft Windows RPC over HTTP
+Microsoft Windows USA daytime
+Micro-Web
+MikroTik bandwidth-test server
+MikroTik http proxy
+MikroTik RouterBoard 250GS httpd
+MikroTik router ftpd
+MikroTik RouterOS API Service
+Minecraft
+mini_httpd
+MiniServ
+Mini web server 1.0 ZTE corp 2005
+Mitel 5000 PBX SIP
+Mobotix Camera http config
+MongoDB
+Mongrel httpd
+monit httpd
+Mono-HTTPAPI
+Mosquitto
+Motion Camera httpd
+MoxaHttp
+Moxa Nport
+MQTT
+MS .NET Remoting services
+MS-SQL Server
+mt-daapd DAAP
+Multicraft ftpd
+MULTILASER INDUSTRIAL S/A RE185 92.98.2
+Mumble Server
+Munin
+MySQL
+N2N
+N5N
+NB5
+Ncat http proxy
+NcFTPd
+NDMP
+NEC AtermHC100RC
+NEC SL2100/2.1
+Netatalk
+NetBox smtpd
+NET-DK
+Netflix
+Netgear broadband router or ZyXel VoIP adapter ftpd
+NETIS WF2409/WF2409D
+Netscape Enterprise httpd
+NetScreen sshd
+Netwave IP camera http config
+Nexxt Solutions ARN02304U8 42.103.1
+Nexxt Solutions ARNEL904U1 92.103.2
+nginx
+Nginx Microsoft HTTPAPI httpd
+Niagara4 Station
+Niagara Fox
+Node.js
+nPerf
+NQ 6.2
+NQE 2.0
+NS2
+NS5
+ntpd
+Nucleus ftpd
+Obihai OBi200 VoIP adapter http config
+Obihai OBi302 VoIP adapter http config
+OBSERVA BHS_RTA 1.0.0
+oftpd
+OpenFlow
+openHAB
+OpenResty
+OpenSER SIP Server
+OpenSIPS SIP Server
+OpenSMTPD
+OpenSSH
+OpenTibia
+OpenVPN Access Server
+OpenWebNet
+Oracle Application Server 10g httpd
+Oracle GlassFish
+Oracle HTTP Server Powered by Apache
+Oracle iPlanet Web Server
+Oracle TNS
+Oracle WebLogic Server
+Oracle XML DB Enterprise Edition httpd
+P5B-300
+P5B-400
+Panasonic AVC Server
+Philips Hue Bridge v2
+Pirelli/Pirelli WLAN IAD-1.38S-M
+Plex
+Polycom SoundPoint VoIP phone http config
+Portainer
+Postfix smtpd
+PostgreSQL
+PowerMTA smtpd
+PRAVIS
+ProFTPD
+PS3 Media Server UPnP
+Pulse Secure
+Pure-FTPd
+PWS httpd
+PYNG-HU
+QNAP
+QNAP D2
+QNAP HS-210
+QNAP HS-251
+QNAP HS-251+
+QNAP TS-112
+QNAP TS-112P
+QNAP TS-119P II
+QNAP TS-128A
+QNAP TS-131
+QNAP TS-131P
+QNAP TS-210
+QNAP TS-212
+QNAP TS-212P
+QNAP TS-212P3
+QNAP TS-219P
+QNAP TS-219P+
+QNAP TS-219P II
+QNAP TS-220
+QNAP TS-221
+QNAP TS-228
+QNAP TS-228A
+QNAP TS-230
+QNAP TS-231
+QNAP TS-231+
+QNAP TS-231K
+QNAP TS-231P
+QNAP TS-231P2
+QNAP TS-231P3
+QNAP TS-251
+QNAP TS-251+
+QNAP TS-251A
+QNAP TS-251B
+QNAP TS-251C
+QNAP TS-251D
+QNAP TS-253A
+QNAP TS-253B
+QNAP TS-253Be
+QNAP TS-253D
+QNAP TS-253 Pro
+QNAP TS-259 Pro+
+QNAP TS-269L
+QNAP TS-269 Pro
+QNAP TS-328
+QNAP TS-351
+QNAP TS-410
+QNAP TS-412
+QNAP TS-419P+
+QNAP TS-419P II
+QNAP TS-420
+QNAP TS-421
+QNAP TS-428
+QNAP TS-431
+QNAP TS-431+
+QNAP TS-431K
+QNAP TS-431P
+QNAP TS-431P2
+QNAP TS-431P3
+QNAP TS-431X
+QNAP TS-431X2
+QNAP TS-431XeU
+QNAP TS-451
+QNAP TS-451+
+QNAP TS-451A
+QNAP TS-451D
+QNAP TS-451D2
+QNAP TS-453A
+QNAP TS-453B
+QNAP TS-453Be
+QNAP TS-453Bmini
+QNAP TS-453D
+QNAP TS-453Dmini
+QNAP TS-453mini
+QNAP TS-453 Pro
+QNAP TS-459 Pro+
+QNAP TS-459 Pro II
+QNAP TS-469L
+QNAP TS-469 Pro
+QNAP TS-473
+QNAP TS-551
+QNAP TS-563
+QNAP TS-653A
+QNAP TS-653D
+QNAP TS-669 Pro
+QNAP TS-869 Pro
+QNAP TVS-471
+QNAP TVS-473
+QNAP VS-2208 Pro+
+Qnginx
+Qpopper pop3d
+Qpop pop3d
+Q-See DVR
+Q-See HCVR
+Q-See NVR
+Quick &#39;n Easy ftpd
+RabbitMQ
+RaidenMAILD pop3d
+RaidenMAILD smtpd
+Ralink Linux UPnP IGD Project RT2880 IGD Version 1.00 RT2880 C
+Ralink router 1
+Ralink Technology, Corp. Ralink Wireless Access Point RT2561
+Ralink Technology, Corp. Ralink Wireless Access Point RT2880
+Ralink Windows Media Connect Compatible (Ralink-DMS) 1.0
+RapidLogic httpd
+rblsmtpd wrapped smtpd
+rdate
+RealPort
+Realtek Semiconductor Corp. RTL8671 EV-2010-09-20
+Realtek Semiconductor Corp. RTL8xxx EV-2009-02-06
+Realtek Semiconductor Corp. RTL8xxx EV-2010-09-20
+RealVNC
+RealVNC Enterprise
+RealVNC Personal
+Redis key-value store
+Red Lion Controls
+Remedy AR System Server
+Remote Desktop Protocol
+Resin Web Server
+Rhinosoft Serv-U httpd
+Rockwell Automation/Allen-Bradley
+rsyncd
+RTL8xxx EV-2009-02-06
+Rumpus httpd
+RunCloud Nginx
+Rust
+Salt
+Samba
+Samsung UE55D7000 TV http config
+Sandpiper Footprint http load balancer
+SAProuter
+SCS sshd
+Secure Computing Sidewinder firewall http admin
+Sendmail
+Serv-U ftpd
+Shaghal Ltd. ERAC1900 90.125.2
+Shenzhen Cudy Technology Co., Ltd. WR1000 92.122.2
+Shenzhen Yichen (JCG) Technology Co., Ltd. JHR-AC836M 86.1.2
+Shenzhen Yichen (JCG) Technology Co., Ltd. JHR-AC860M 90.1.2
+Shenzhen Yichen (JCG) Technology Co., Ltd. NJ-3R 42.402.1
+SHOUTcast server
+Siemens Gigaset DX800A VoIP phone SIP
+Signify Philips hue bridge 2015 BSB002
+SimpleHTTPServer
+Sinfor Httpd
+SmartXFilter
+smbx
+Socks4A
+SonicWALL firewall http config
+SonicWALL SSL-VPN http proxy
+Sonos CONNECT:AMP
+Space Engineers
+Speco Technologies N16NXP
+Splunk Server
+Spotify Connect
+Squid http proxy
+STARFACE PBX
+StatsD
+Steam Dedicated Server
+Subversion
+Sun GlassFish
+Sun ONE Web Server
+SunSSH
+SurgeFTPd
+Surgemail smtpd
+Surgemail webmail
+Swann DVR8-2600 security camera system httpd
+Swift
+Symantec Messaging Gateway smtpd
+Synology DiskStation NAS ftpd
+Talk Talk YouView set-top box http config
+TeamSpeak 3 ServerQuery
+TeamViewer
+Techno Vision Security System http config
+Telefonadapter - Telia Bredbandstelefoni
+Tenda Wireless Router 1
+Tengine
+Tenor Multipath Switch ftpd
+TFTP
+Thin
+Thomson TR-69 http config
+thttpd
+Tilgin Vood HG238x_ESx000-02_10_01_24
+Tilgin Vood HG238x_ESx415-02_10_01_24
+Tilgin Vood HG238x_ESx415-03_02_00_72
+Tilgin Vood HG238x_ESx415-03_02_00_95
+Tilgin Vood HG25xx_ESx001-03_02_00_95
+Tilgin Vood HG27xx_ESx270-03_02_00_68
+Tilgin Vood HG32x_CSx660-01_09_07_32
+Tilgin Vood HG911x
+Tinyproxy
+Titan ftpd
+TiVo To Go httpd
+TLS
+tnftpd
+Tomato WAP firmware httpd
+Tor built-in httpd
+Tornado Web Server
+TOTOLINK A2004NS 1
+TOTOLINK N150RA 1
+TOTOLINK N300RA 1
+TP-LINK WR1043ND WAP http config
+TP-LINK WR740N WAP http config
+TP-LINK WR741ND WAP http config
+TP-LINK WR841N WAP http config
+TP-LINK WR941ND WAP http config
+Trane Tracer SC
+TRENDnet IP Camera
+Tridium Niagara httpd
+TruVision NVR/DVR/IP Camera
+Tuya
+TwistedWeb
+TwistedWeb httpd
+TwonkyMedia UPnP
+Typesense
+TYPSoft ftpd
+uc-httpd
+uhttpd
+uhttpd Web Server
+Ultr@VNC Repeater
+UniFi Video
+Unreal ircd
+Unreal Test!
+Unrecognized SMTP service
+UserAgent
+uTorrent WebUI
+UW imapd
+VanDyke VShell
+Varnish
+Varnish HTTP Cache
+Vault
+Ventrilo
+Virata-EmWeb
+VMware Authentication Daemon
+VMware ESXi
+VMware vCenter Server
+VMware Workstation
+VNC
+vsftpd
+Vtun Virtual Tunnel
+VxWorks ftpd
+Watashi XVR
+Web-Based Enterprise Management CIM serverOpenPegasus WBEM httpd
+WebFS httpd
+WEBrick httpd
+WebRTC
+WeOnlyDo sshd
+Werkzeug
+Werkzeug httpd
+Westell cable modem http config
+Windows Media Connect Compatible ()
+Windows qotd
+Windows Terminal Server
+Wind River FTP server
+WindWeb
+WinWebMail smtpd
+WOM5AMiMo
+World Client WDaemon httpd
+Wowza Media Server
+Wowza Streaming Engine
+WR744G K909 1.0
+WS-12-250-AC
+WS-12-250-DC
+WS-6-MINI
+WS FTPd
+WSGIServer
+WU-FTPD
+wwcommunicator
+Xiaomi IoT
+xinetd chargen
+Xlight ftpd
+XMail pop3d
+XMail SMTP server
+YAMAHA RT Series
+Yaws httpd
+Yeastar S20-30.14.0.127
+youhua router 1
+Zeus httpd
+Zope httpd
+Zscaler Cloud Services
+ZTE Corporation ZTE ZXHN H168N V3.0
+ZTE F660 V2.0
+ZTE H108N 1.0.0
+ZTE web server 1.0 ZTE corp 2015
+ZyXEL Communications Corp. DEL1202-T10B/B
+ZyXEL Communications Corp. ZyXEL EMG2926 Router 1
+ZyXEL ZyWALL sshd
