@@ -22,6 +22,7 @@ git clone https://github.com/GainSec/TreeHouse-Wordlists
 * **ssti-payloads** [ssti-payloads](https://github.com/payloadbox/ssti-payloads)
 * **xxe-injection-payload-list** [xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list)
 * **Blasting Dictionary**
+* **OneListForAll** [OneListForAll](https://github.com/six2dez/OneListForAll)
 
 ## License
 
