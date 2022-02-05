@@ -1,0 +1,26 @@
+firewall
+router
+WAP
+webcam
+security-misc
+media device
+broadband router
+PBX
+printer
+switch
+specialized
+storage-misc
+VoIP phone
+VoIP adapter
+load balancer
+print server
+phone
+remote management
+terminal server
+telecom-misc
+proxy server
+VoIP addapter
+power-device
+PDA
+power-misc
+bridge
