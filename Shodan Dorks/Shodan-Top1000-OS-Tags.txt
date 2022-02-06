@@ -1,0 +1,1000 @@
+Ubuntu
+Debian
+ASUSWRT
+SonicWall SonicOS 6.x
+Synology DiskStation Manager (DSM) 6.2.4-25556
+Windows Server 2012 R2
+Synology DiskStation Manager (DSM) 7.0.1-42218
+Unix
+QTS 5.0.0
+Windows Server 2012 R2 Standard 9600
+Windows Server 2012 R2 Datacenter 9600
+SonicWall SonicOS 5.x
+LG webOS
+Synology DiskStation Manager (DSM) 6.2.3-25426
+Windows Server 2008 R2 Enterprise 7601 Service Pack 1
+MikroTik RouterOS 6.45.9
+Dell SonicWALL SonicOS 5.x
+Windows Server 2016 Standard 14393
+Windows 6.1
+MikroTik RouterOS 6.49.2
+Windows Server 2008 R2 Datacenter 7601 Service Pack 1
+Raspbian
+Synology DiskStation Manager (DSM) 7.0-41890
+SonicWall SonicOS 7.x
+Asuswrt-Merlin
+QTS 4.3.3
+Playstation 4
+Windows Server 2008 R2 Enterprise
+MikroTik RouterOS 6.48.3
+Synology DiskStation Manager (DSM) 6.2.2-24922
+SonicWall SonicOS
+Windows Server 2016 Datacenter 14393
+MikroTik RouterOS 6.44.5
+QTS 4.3.6
+MikroTik RouterOS 6.48.4
+QTS
+MikroTik RouterOS 6.49
+Synology DiskStation Manager (DSM) 6.1.7-15284
+Windows Server 2008 R2 Standard
+MikroTik RouterOS 6.48.1
+MikroTik RouterOS 6.45.8
+Synology Router Manager (SRM) 1.2.5-8227
+QTS 4.5.4
+MikroTik RouterOS 6.47.9
+MikroTik RouterOS 6.44.3
+QTS 4.3.4
+Synology DiskStation Manager (DSM)
+MikroTik RouterOS 6.48.2
+MikroTik RouterOS 6.44.6
+Windows Server 2008 R2 Standard 7601 Service Pack 1
+MikroTik RouterOS 6.47.10
+Windows Server 2008 R2 Datacenter
+Windows 11
+MikroTik RouterOS 6.45.7
+MikroTik RouterOS 6.45.6
+Synology DiskStation Manager (DSM) 6.2.1-23824
+MikroTik RouterOS 6.43.8
+MikroTik RouterOS 6.48
+MikroTik RouterOS 6.47.8
+MikroTik RouterOS 6.43.4
+MikroTik RouterOS 6.49.1
+MikroTik RouterOS 6.43.2
+MikroTik RouterOS 6.42.6
+MikroTik RouterOS 6.48.6
+Windows 7 Ultimate
+MikroTik RouterOS 6.47.1
+MikroTik RouterOS 6.46.8
+QTS 4.2.6
+MikroTik RouterOS 6.42.7
+MikroTik RouterOS 6.40.8
+Windows Server 2012
+MikroTik RouterOS 6.45.3
+MikroTik RouterOS 6.47.4
+MikroTik RouterOS 6.47
+Windows Server 2012 R2 Standard Evaluation 9600
+MikroTik RouterOS 6.48.5
+Synology DiskStation Manager (DSM) 6.2-23739
+MikroTik RouterOS 6.43.16
+Windows 7 Professional
+MikroTik RouterOS 6.45.1
+QTS 4.5.2
+Samsung Tizen
+MikroTik RouterOS 6.43.12
+Windows 7 Ultimate 7601 Service Pack 1
+Windows 7 Professional 7601 Service Pack 1
+MikroTik RouterOS 6.44.1
+Windows Server 2012 Standard 9200
+Darwin
+MikroTik RouterOS 6.46.4
+MikroTik RouterOS 6.47.7
+MikroTik RouterOS 6.43.7
+MikroTik RouterOS 6.46.6
+Dell SonicWALL SonicOS 6.x
+MikroTik RouterOS 6.42.12
+MikroTik RouterOS 7.1.1
+MikroTik RouterOS 6.42.3
+MikroTik RouterOS 6.42.5
+MikroTik RouterOS 6.44.2
+QTS 4.5.1
+MikroTik RouterOS 5.26
+MikroTik RouterOS 6.46.1
+Synology DiskStation Manager (DSM) 5.2-5967
+MikroTik RouterOS 6.42.10
+MikroTik RouterOS 6.42.1
+MikroTik RouterOS 5.20
+MikroTik RouterOS 6.39.2
+MikroTik RouterOS 6.40.9
+MikroTik RouterOS 6.43.14
+QTS 4.4.3
+QTS 4.4.1
+MikroTik RouterOS 5.25
+MikroTik RouterOS 6.45.5
+MikroTik RouterOS 6.44rc3
+MikroTik RouterOS 6.46.3
+MikroTik RouterOS 6.44.4
+QTS 4.3.5
+Windows 10 Home 19043
+MikroTik RouterOS 6.47.3
+MikroTik RouterOS 6.47.2
+MikroTik RouterOS 6.45.2
+Dell SonicWALL SonicOS
+Windows 8
+Windows 7 Home Premium 7601 Service Pack 1
+Windows 10 Pro 19043
+MikroTik RouterOS 6.46.5
+MikroTik RouterOS 6.42.11
+QTS 4.4.2
+MikroTik RouterOS 6.47.6
+MikroTik RouterOS 6.40.4
+Windows 8.1 9600
+MikroTik RouterOS 6.46.2
+Windows 10 Pro 19042
+MikroTik RouterOS 6.46.7
+Synology Router Manager (SRM) 1.2.4-8081
+Synology DiskStation Manager (DSM) 5.2-5644
+Windows Server 2016 Standard Evaluation 14393
+MikroTik RouterOS 6.44
+MikroTik RouterOS 6.43.13
+Windows Server 2019 Standard 17763
+MikroTik RouterOS 6.42.9
+MikroTik RouterOS 6.43rc68
+Windows Server 2003
+MikroTik RouterOS 6.41.3
+MikroTik RouterOS 6.42.4
+MikroTik RouterOS 6.18
+MikroTik RouterOS 5.24
+MikroTik RouterOS 6.23
+QTS 5.1.0
+Windows 8.1 Pro 9600
+Synology Router Manager (SRM) 1.2.3-8017
+Synology DiskStation Manager (DSM) 6.0.3-8754
+Synology DiskStation Manager (DSM) 6.2.3-25423
+Synology DiskStation Manager (DSM) 6.1.4-15217
+MikroTik RouterOS 6.46
+Synology DiskStation Manager (DSM) 6.0.2-8451
+MikroTik RouterOS 6.42.2
+MikroTik RouterOS 6.15
+MikroTik RouterOS 6.27
+MikroTik RouterOS 7.1
+MikroTik RouterOS 6.43
+Windows Web Server 2008 R2
+Windows 10 Home 19042
+MikroTik RouterOS 6.35.4
+MikroTik RouterOS 
+Windows 10 Enterprise 2016 LTSB 14393
+Synology DiskStation Manager (DSM) 4.2-3259
+Windows Server 2008 Standard
+Windows Server 2012 Datacenter 9200
+Windows Server 2008 R2 Foundation
+Synology DiskStation Manager (DSM) 6.1.3-15152
+MikroTik RouterOS 6.38.5
+MikroTik RouterOS 5.18
+Windows Server 2019 Datacenter 17763
+Synology Router Manager (SRM) 1.2.1-7779
+PAN-OS 9.1.4
+MikroTik RouterOS 6.30.4
+MikroTik RouterOS 6.43.5
+Synology DiskStation Manager (DSM) 6.1.6-15266
+Windows Server 2012 R2 Datacenter Evaluation 9600
+MikroTik RouterOS 6.7
+MikroTik RouterOS 5.21
+QTS 4.2.0
+MikroTik RouterOS 6.43.1
+Synology
+MikroTik RouterOS 6.45.4
+Synology DiskStation Manager (DSM) 6.1-15047
+MikroTik RouterOS 6.34.4
+MikroTik RouterOS 5.16
+MikroTik RouterOS 6.43.11
+Windows Web Server 2008 R2 7601 Service Pack 1
+Synology DiskStation Manager (DSM) 6.1.5-15254
+QTS 4.2.2
+Windows Server 2012 R2 Essentials 9600
+MikroTik RouterOS 6.19
+Windows Server 2012 R2 Foundation 9600
+QTS 5.1.1
+Windows 7 Enterprise 7601 Service Pack 1
+Windows Server 2016 Essentials 14393
+MikroTik RouterOS 6.5
+MikroTik RouterOS 6.12
+QTS 5.1.3
+QTS 4.5.3
+MikroTik RouterOS 6.43.10
+Windows 7 Home Basic 7601 Service Pack 1
+RedHat Linux
+PAN-OS 9.1.3
+Windows 10 Pro 19044
+Windows Server (R) 2008 Standard 6003 Service Pack 2
+MikroTik RouterOS 6.37.1
+MikroTik RouterOS 5.22
+MikroTik RouterOS 6.34.2
+QTS 4.1.1
+Windows Small Business Server 2011 Standard
+PAN-OS 9.0.4
+PAN-OS 9.1.1
+PAN-OS 8.1.15-h3
+Windows 8.1 Single Language 9600
+MikroTik RouterOS 6.40.5
+Synology Router Manager (SRM) 1.1.7-6941
+PAN-OS 9.1.0
+Windows 10 Enterprise 19042
+QTS h5.0.0
+PAN-OS 9.1.3-h1
+Windows 7 Enterprise
+Windows 5.1
+Synology DiskStation Manager (DSM) 7.0-41882
+Synology DiskStation Manager (DSM) 7.0-41222
+MikroTik RouterOS 5.11
+MikroTik RouterOS 6.39.3
+QTS 4.1.4
+MikroTik RouterOS 6.43.9
+QTS 4.2.1
+MikroTik RouterOS 6.34.3
+MikroTik RouterOS 6.40.3
+Windows 10 Enterprise 18363
+Synology Router Manager (SRM) 1.1.4-6509
+MikroTik RouterOS 6.43.3
+NDM Keenetic
+Windows Server 2003 3790 Service Pack 2
+MikroTik RouterOS 6.29.1
+Synology DiskStation Manager (DSM) 5.0-4528
+Windows Server 2008 Enterprise
+QTS 5.1.5
+MikroTik RouterOS 6.10
+MikroTik RouterOS 3.30
+MikroTik RouterOS 6.41
+MikroTik RouterOS 6.38.7
+MikroTik RouterOS 5.6
+Windows 10 Home 19044
+Synology DiskStation Manager (DSM) 6.1.1-15101
+PAN-OS 9.0.10
+MikroTik RouterOS 6.22
+QTS 4.1.3
+Synology DiskStation Manager (DSM) 5.0-4493
+MikroTik RouterOS 6.6
+Windows Server 2012 Standard Evaluation 9200
+Synology DiskStation Manager (DSM) 4.3-3827
+MikroTik RouterOS 5.14
+MikroTik RouterOS 6.25rc7
+Windows 7 Professional 7600
+Synology DiskStation Manager (DSM) 5.2-5592
+MikroTik RouterOS 6.1
+Windows 10 Pro 18363
+Windows Embedded Standard 7601 Service Pack 1
+Windows 10 Pro 19041
+Windows Server (R) 2008 Standard 6002 Service Pack 2
+PAN-OS 9.0.8
+MikroTik RouterOS 5.9
+PAN-OS 8.1.16
+MikroTik RouterOS 6.37.4
+Synology DiskStation Manager (DSM) 5.1-5022
+MikroTik RouterOS 6.38.3
+PAN-OS 10.0.0
+MikroTik RouterOS 4.11
+Windows Server (R) 2008 Enterprise 6003 Service Pack 2
+Windows Server 2003 R2 3790 Service Pack 2
+Synology DiskStation Manager (DSM) 3.1-1639
+MikroTik RouterOS 6.24rc1
+MikroTik RouterOS 6.41.2
+MikroTik RouterOS 6.28
+Windows 10 Pro 17134
+MikroTik RouterOS 6.30.2
+MikroTik RouterOS 6.36.1
+QTS 4.2.3
+Synology Router Manager (SRM)
+Windows Server 2008 R2 Foundation 7601 Service Pack 1
+MikroTik RouterOS 6.40.6
+Windows 7 Professional K
+Windows 10 Pro 14393
+MikroTik RouterOS 6.25
+PAN-OS 8.1.10
+MikroTik RouterOS 6.13
+PAN-OS 9.0.5
+Windows XP SP2
+PAN-OS 8.1.15
+QTS 4.2.5
+PAN-OS 8.1.6
+MikroTik RouterOS 6.39.1
+MikroTik RouterOS 5.19
+MikroTik RouterOS 5.23
+MikroTik RouterOS 5.5
+MikroTik RouterOS 6.20rc16
+Windows Server 2012 Foundation 9200
+PAN-OS 9.1.2
+PAN-OS 8.0.19-h1
+MikroTik RouterOS 6.38.1
+MikroTik RouterOS 6.37.5
+QTS 4.1.2
+MikroTik RouterOS 6.49rc2
+PAN-OS 8.1.11
+QTS 5.0.3
+Synology DiskStation Manager (DSM) 6.0-7321
+MikroTik RouterOS 6.35.2
+MikroTik RouterOS 6.4
+MikroTik RouterOS 5.4
+Synology DiskStation Manager (DSM) 6.0.1-7393
+Synology DiskStation Manager (DSM) 6.1.2-15132
+EPSON Storage Server
+Windows 8.1 Enterprise 9600
+MikroTik RouterOS 2.9.27
+Windows Server 2008 R2
+MikroTik RouterOS 6.34.6
+QTS 4.2.4
+MikroTik RouterOS 6.32.3
+MikroTik RouterOS 6.33.5
+linux
+Windows 10 Home Single Language 19043
+Synology DiskStation Manager (DSM) 5.1-5055
+Windows Server 2016 Datacenter Evaluation 14393
+PAN-OS 9.0.7
+Synology DiskStation Manager (DSM) 4.2-3211
+MikroTik RouterOS 5.2
+PAN-OS 9.0.0
+Windows 10 Pro 15063
+Synology DiskStation Manager (DSM) 5.2-5565
+Windows Embedded 8.1 Industry Pro 9600
+MikroTik RouterOS 6.36.4
+MikroTik RouterOS 6.11
+PAN-OS 10.0.1
+MikroTik RouterOS 6.20
+MikroTik RouterOS 6.40.7
+Synology Router Manager (SRM) 1.1.6-6931
+MikroTik RouterOS 7.0.5
+MikroTik RouterOS 6.36.3
+PAN-OS 8.1.9
+QTS h4.5.4
+Windows 10 Pro 17763
+Synology DiskStation Manager (DSM) 6.2.4-25554
+MikroTik RouterOS 6.9
+MikroTik RouterOS 6.0rc14
+MikroTik RouterOS 6.37.3
+MikroTik RouterOS 5.7
+Windows 10 Home 19041
+MikroTik RouterOS 6.40.1
+MikroTik RouterOS 6.36
+MikroTik RouterOS 5.12
+MikroTik RouterOS 6.43.15
+Synology Router Manager (SRM) 1.2-7742
+Windows 8.1 Connected 9600
+MikroTik RouterOS 6.32.1
+MikroTik RouterOS 6.32.2
+Synology DiskStation Manager (DSM) 4.2-3256
+MikroTik RouterOS 6.0
+MikroTik RouterOS 6.42.8
+MikroTik RouterOS 4.17
+Synology Router Manager (SRM) 1.1.1-6414
+Windows 10 Pro 10586
+Windows Small Business Server 2008
+MikroTik RouterOS 4.10
+MikroTik RouterOS 6.41.4
+Windows 7 Ultimate K
+Windows 10 Home 18363
+Windows 10 Pro 10240
+Windows 8 Pro 9200
+Windows 8 Single Language 9200
+MikroTik RouterOS 6.33
+MikroTik RouterOS 6.24
+Windows 10 Pro 18362
+PAN-OS 8.1.7
+Synology DiskStation Manager (DSM) 4.3-3810
+MikroTik RouterOS 6.2
+Windows 8 9200
+Java
+Windows 10 Enterprise 19041
+Windows 10 Enterprise 19043
+QTS 4.1.0
+MikroTik RouterOS 6.42
+MikroTik RouterOS 6.31
+MikroTik RouterOS 6.33.3
+Synology DiskStation Manager (DSM) 4.0-2265
+MikroTik RouterOS 6.17
+Hyper-V Server 2016 14393
+MikroTik RouterOS 6.32.4
+MikroTik RouterOS 3.22
+MikroTik RouterOS 4.14
+Synology DiskStation Manager (DSM) 4.0-2228
+Windows 10 Enterprise 19044
+Synology DiskStation Manager (DSM) 4.2-3255
+Windows 10 Education 19042
+Windows Server (R) 2008 Enterprise 6002 Service Pack 2
+Synology DiskStation Manager (DSM) 4.3-3776
+Windows 10 Enterprise 2015 LTSB 10240
+Windows Server 2019 Essentials 17763
+PAN-OS 9.0.3
+MikroTik RouterOS 7.0.4
+Windows Home Server 2011
+MikroTik RouterOS 6.21.1
+Windows 7 Starter 7601 Service Pack 1
+MikroTik RouterOS 6.36.2
+MikroTik RouterOS 6.38
+Windows 8.1 Connected Single Language 9600
+Windows 10 Home Single Language 19042
+MikroTik RouterOS 5.15
+MikroTik RouterOS 5.8
+MikroTik RouterOS 6.34.1
+PAN-OS 8.1.5
+MikroTik RouterOS 6.35.1
+Synology Router Manager (SRM) 1.1.3-6447
+Windows (R) Web Server 2008 6003 Service Pack 2
+MikroTik RouterOS 6.40
+MikroTik RouterOS 6.40.2
+PAN-OS 8.0.7
+PAN-OS 8.1.4
+PAN-OS 8.1.8
+Windows 10 Pro 22000
+Synology DiskStation Manager (DSM) 5.0-4458
+Windows CE
+QTS 4.3.2
+MikroTik RouterOS 6.26rc17
+MikroTik RouterOS 6.3
+Windows 10 Enterprise LTSC 2019 17763
+Synology DiskStation Manager (DSM) 4.1-2668
+Windows Server 2008 Datacenter
+PAN-OS 8.1.0
+QTS 5.1.6
+MikroTik RouterOS 5.17
+MikroTik RouterOS 4.5
+MikroTik RouterOS 6.41.1
+Hyper-V Server 2012 R2 9600
+MikroTik RouterOS 6.37.2
+MikroTik RouterOS 6.33.1
+Windows 10 Enterprise Evaluation 14393
+MikroTik RouterOS 4.16
+Windows 10 Home 17763
+MikroTik RouterOS 4.9
+PAN-OS 9.0.1
+Windows 10 Enterprise 17134
+Windows 7 Enterprise N
+Windows 7 Ultimate 7600
+PAN-OS 8.1.3
+Synology DiskStation Manager (DSM) 5.0-4482
+Synology Router Manager (SRM) 1.1.5-6542
+MikroTik RouterOS 6.14
+QTS 4.0.7
+Windows Server 2012 Essentials 9200
+Windows 10 Enterprise 14393
+MikroTik RouterOS 6.35
+MikroTik RouterOS 6.38.4
+PAN-OS 7.1.18
+Windows 10 Pro 16299
+Windows 7 Enterprise K
+Synology DiskStation Manager (DSM) 4.1-2661
+Synology DiskStation Manager (DSM) 4.2-3202
+Windows 10 Enterprise 10586
+MikroTik RouterOS 6.38rc49
+MikroTik RouterOS 6.40rc42
+QTS 4.0.2
+Windows Storage Server 2012 R2 Standard 9600
+PAN-OS 9.0.2
+Windows Embedded POSReady 7
+PAN-OS 8.0.0
+Windows Small Business Server 2011 Standard 7601 Service Pack 1
+PAN-OS 8.1.8-h5
+Windows Server 2008 HPC Edition 7601 Service Pack 1
+MikroTik RouterOS 3.10
+Windows Server 2022 Datacenter 20348
+Windows Server 2022 Standard 20348
+Synology DiskStation Manager (DSM) 3.2-1983
+PAN-OS 8.1.14-h2
+Windows Vista (TM) Home Premium 6002 Service Pack 2
+Windows 10 Enterprise 17763
+MikroTik RouterOS 3.20
+Windows 8 Enterprise 9200
+MikroTik RouterOS 5.13
+Windows 8.1 Pro with Media Center 9600
+Windows Server (R) 2008 Datacenter 6003 Service Pack 2
+MikroTik RouterOS 5.0
+PAN-OS 8.0.13
+Linux
+Synology DiskStation Manager (DSM) 5.1-5004
+Windows 10 Home 17134
+MikroTik RouterOS 2.9.6
+MikroTik RouterOS 6.26
+MikroTik RouterOS 3.25
+MikroTik RouterOS 3.7
+MikroTik RouterOS 6.45beta63
+MikroTik RouterOS 6.30.1
+PAN-OS 8.0.10
+Synology DiskStation Manager (DSM) 4.2-3252
+Windows 10 Education 15063
+Windows 10 Enterprise 15063
+Windows Home Server 2011 7601 Service Pack 1
+MikroTik RouterOS 6.37
+MikroTik RouterOS 6.48rc2
+Windows 7 Home Premium
+Windows Server 2019 Standard Evaluation 17763
+MikroTik RouterOS 6.44beta24
+Synology Router Manager (SRM) 1.0.2-6022
+Windows (R) Small Business Server 2008 6003 Service Pack 2
+Windows 10 Enterprise 10240
+Windows 10 Home 18362
+PAN-OS 8.0.19
+QTS 3.8.2
+MikroTik RouterOS 6.0rc13
+PAN-OS 7.1.22
+PAN-OS 8.0.20
+PAN-OS 8.0.3
+QTS 5.0.1
+MikroTik RouterOS ns2.9.38
+PAN-OS 8.0.12
+PAN-OS 9.1.0-h3
+QTS 3.8.3
+QTS 4.0.5
+Windows 10 Education 18363
+BRN TriplusOS
+QTS 3.8.1
+Windows Embedded Platform 9200
+Windows Server (R) 2008 Standard without Hyper-V 6003 Service Pack 2
+Synology DiskStation Manager (DSM) 4.1-2647
+Windows 10 Education 19041
+MikroTik RouterOS 6.43rc4
+Synology DiskStation Manager (DSM) 3.2-1955
+MikroTik RouterOS 4.15
+PAN-OS 8.1.1
+Windows 5.0
+PAN-OS 8.0.2
+QTS 3.7.3
+QTS 5.0.2
+Windows 10 Home 14393
+MikroTik RouterOS 6.34
+windows
+MikroTik RouterOS 6.35.3
+QTS c5.0.0
+Synology DiskStation Manager (DSM) 4.1-2636
+MikroTik RouterOS 3.17
+MikroTik RouterOS 6.39
+MikroTik RouterOS 6.43rc45
+PAN-OS 8.0.8
+MikroTik RouterOS 6.43rc56
+Windows 10 Enterprise 16299
+MikroTik RouterOS ns2.9.51
+QTS c4.5.6
+MikroTik RouterOS 4.13
+PAN-OS 6.1.19
+PAN-OS 8.0.14
+MikroTik RouterOS 6.44beta18
+Synology DiskStation Manager (DSM) 3.0-1354
+Synology DiskStation Manager (DSM) 3.2-1922
+Windows 10 Home Single Language 18363
+Windows Embedded 8.1 Industry Enterprise 9600
+Linux 2.6.12
+MikroTik RouterOS 2.9.46
+MikroTik RouterOS 3.23
+MikroTik RouterOS 6.30
+MikroTik RouterOS 6.45
+PAN-OS 7.1.24
+PAN-OS 8.0.4
+QTS h4.5.3
+Synology DiskStation Manager (DSM) 5.1-5021
+Synology Router Manager (SRM) 1.1.2-6425
+Windows 10 Education 19044
+Windows Small Business Server 2011 Essentials 7601 Service Pack 1
+MikroTik RouterOS 2.9.49
+MikroTik RouterOS 3.31
+MikroTik RouterOS 5.1
+MikroTik RouterOS 6.37rc35
+MikroTik RouterOS 6.43rc31
+MikroTik RouterOS 6.43rc66
+PAN-OS 7.1.17
+QTS c4.5.7
+Synology DiskStation Manager (DSM) 4.0-2198
+Windows 10 Education 19043
+Windows Server (R) 2008 Enterprise without Hyper-V 6003 Service Pack 2
+Windows Storage Server 2016 Standard 14393
+MikroTik RouterOS 6.30rc29
+MikroTik RouterOS 6.43rc51
+MikroTik RouterOS 6.44beta9
+PAN-OS 7.1.25
+QTS 3.2.5
+Synology DiskStation Manager (DSM) 3.0-1372
+Windows 10 Home 16299
+EMC-SNAS:T8.1.9.184
+MikroTik RouterOS 2.9.48
+MikroTik RouterOS ns2.9.46
+PAN-OS 8.0.9
+Synology DiskStation Manager (DSM) 3.1-1638
+Synology DiskStation Manager (DSM) 4.0-2233
+Linux 2.6.33
+PAN-OS 7.0.5-h2
+PAN-OS 8.1.6-h2
+Synology DiskStation Manager (DSM) 3.1-1613
+Synology Router Manager (SRM) 1.1-6338
+Windows 10 Home 15063
+Windows Server 2008 R2 Standard 7600
+MikroTik RouterOS 3.13
+MikroTik RouterOS ns2.9.50
+PAN-OS 8.0.15
+QTS 3.5.2
+Windows 10 Home 10586
+Windows Server 2016 Technical Preview 4 10586
+MikroTik RouterOS 4.6
+MikroTik RouterOS 6.0rc11
+MikroTik RouterOS 6.0rc6
+MikroTik RouterOS 6.29rc23
+PAN-OS 7.1.14
+PAN-OS 7.1.8
+Synology Router Manager (SRM) 1.2.2-7915
+Windows 10 Enterprise 18362
+Windows 10 Pro for Workstations 19042
+Windows Server (R) 2008 Datacenter 6002 Service Pack 2
+Windows Server 2008 R2 Enterprise 7600
+MikroTik RouterOS 6.29
+MikroTik RouterOS 6.34.5
+MikroTik RouterOS 6.44beta36
+PAN-OS 7.1.5
+PAN-OS 8.0.5
+QTS 4.0.3
+QTS 4.4.0
+Synology DiskStation Manager (DSM) 4.0-2219
+Windows 10 Enterprise N 2016 LTSB 14393
+Windows 10 Home 10240
+Windows 10 Home 22000
+MikroTik RouterOS 3.28
+MikroTik RouterOS 4.12
+MikroTik RouterOS 6.44beta5
+PAN-OS 6.1.4
+PAN-OS 6.1.7
+PAN-OS 7.1.15
+QTS h4.5.2
+Synology DiskStation Manager (DSM) 3.1-1636
+Windows 10 Home Single Language 19044
+Windows Vista (TM) Business 6002 Service Pack 2
+CANON
+MikroTik RouterOS 6.43rc17
+MikroTik RouterOS 6.43rc37
+MikroTik RouterOS 6.43rc44
+PAN-OS 6.0.13
+PAN-OS 7.1.7
+QTS 3.6.1
+Windows 10 Enterprise 22000
+Windows 10 Home Single Language 10240
+Windows 10 Home Single Language 19041
+Windows Storage Server 2008 R2 Essentials
+Windows Storage Server 2016 Workgroup 14393
+Embedded
+MikroTik RouterOS 6.38.6
+MikroTik RouterOS 6.44beta57
+PAN-OS 7.1.10
+QTS 1.0
+Synology DiskStation Manager (DSM) 4.2-3246
+Windows 7 Professional N 7601 Service Pack 1
+win6
+MikroTik RouterOS 3.29
+MikroTik RouterOS 6.45beta37
+PAN-OS 7.0.3
+PAN-OS 7.1.21
+PAN-OS 8.0.16
+Synology DiskStation Manager (DSM) 3.2-1944
+Synology DiskStation Manager (DSM) 4.2-3254
+Synology Router Manager (SRM) 1.0.1-6007
+Windows 10 Pro N 19042
+Windows Server (R) 2008 Standard 6001 Service Pack 1
+MikroTik RouterOS 5.0rc3
+MikroTik RouterOS 6.0rc7
+MikroTik RouterOS 6.21
+MikroTik RouterOS 7.0.2
+PAN-OS 7.0.19
+PAN-OS 7.1.0
+PAN-OS 7.1.26
+QTS 3.7.1
+QTS h4.5.1
+Synology DiskStation Manager (DSM) 4.0-2243
+Synology DiskStation Manager (DSM) 4.1-2657
+Windows 10 Education 17134
+Windows 7 Enterprise N 7601 Service Pack 1
+Windows 8 Pro with Media Center 9200
+MikroTik RouterOS 6.43rc34
+MikroTik RouterOS 6.45beta40
+MikroTik RouterOS 7.0
+PAN-OS 8.0.18
+Synology DiskStation Manager (DSM) 3.1-1594
+Windows (R) Small Business Server 2008 6002 Service Pack 2
+Windows 10 Pro N 19043
+Windows Server (R) 2008 Datacenter without Hyper-V 6003 Service Pack 2
+Windows Server (R) 2008 Enterprise without Hyper-V 6002 Service Pack 2
+Windows Server 2012 Datacenter Evaluation 9200
+Windows Server 2019 Datacenter Evaluation 17763
+ZyXEL Keenetic Giga II
+MikroTik RouterOS 5.0rc5
+MikroTik RouterOS 6.33.2
+MikroTik RouterOS 6.43rc21
+MikroTik RouterOS 6.43rc23
+MikroTik RouterOS 6.43rc64
+MikroTik RouterOS 6.44beta48
+PAN-OS 7.1.23
+QTS 3.3.9
+QTS 3.5.0
+VxWorks
+Windows 10 Enterprise N 19042
+Windows Embedded 8 Standard 9200
+Windows Server 2012 Release Candidate Datacenter 8400
+Hyper-V Server 2012 9200
+MikroTik RouterOS 3.11
+MikroTik RouterOS 6.16
+MikroTik RouterOS 6.23.1
+PAN-OS 7.0.18
+PAN-OS 7.1.16
+PAN-OS 7.1.2
+PAN-OS 7.1.20
+PAN-OS 7.1.3
+PAN-OS 7.1.6
+QTS 1.5.0
+QTS 3.3.6
+Synology DiskStation Manager (DSM) 4.2-3248
+Synology DiskStation Manager (DSM) 4.2-3250
+Synology Router Manager (SRM) 1.2.5-8225
+Windows (R) Web Server 2008 6002 Service Pack 2
+Windows 10 Home Single Language 14393
+Windows 10 Pro for Workstations 19043
+Windows 2000 2195
+Windows MultiPoint Server 2012 Premium 9200
+MikroTik RouterOS 4.3
+MikroTik RouterOS 5.10
+MikroTik RouterOS 6.0rc9
+MikroTik RouterOS 6.43rc12
+MikroTik RouterOS 6.46beta4
+MikroTik RouterOS 6.47.5
+PAN-OS 6.1.15
+PAN-OS 7.1.4-h2
+PAN-OS 8.0.6-h3
+QTS 3.4.2
+Synology DiskStation Manager (DSM) 3.1-1742
+Synology DiskStation Manager (DSM) 3.1-1748
+UNIX
+Windows Server 2016 Technical Preview 4 Essentials 10586
+Windows Storage Server 2012 Standard 9200
+Windows Vista (TM) Home Basic 6002 Service Pack 2
+MikroTik RouterOS 2.9.7
+MikroTik RouterOS 3.24
+MikroTik RouterOS 6.43rc6
+MikroTik RouterOS 6.44beta17
+MikroTik RouterOS 6.45beta47
+PAN-OS 6.0.8
+PAN-OS 6.1.3
+PAN-OS 7.0.1
+PAN-OS 7.0.11
+PAN-OS 7.0.6
+PIX OS 7.0.x
+Windows 10 Pro for Workstations 19044
+Windows 8.1 Pro N 9600
+Windows Storage Server 2012 R2 Essentials 9600
+Hyper-V Server 7601 Service Pack 1
+Keenetic Omni
+MikroTik RouterOS 2.9.2
+MikroTik RouterOS 3.9
+MikroTik RouterOS 6.22.1
+MikroTik RouterOS 6.39rc15
+MikroTik RouterOS 6.39rc79
+MikroTik RouterOS 6.43.6
+MikroTik RouterOS 6.43rc14
+MikroTik RouterOS 6.43rc41
+MikroTik RouterOS 6.44beta51
+MikroTik RouterOS 6.44beta77
+MikroTik RouterOS 6.45beta33
+MikroTik RouterOS 6.45beta62
+MikroTik RouterOS 6.45beta9
+MikroTik RouterOS 6.46beta7
+PAN-OS 6.1.8
+PAN-OS 7.0.10
+PAN-OS 7.1.11
+PAN-OS 7.1.13
+PAN-OS 7.1.9
+PAN-OS 8.0.17
+QTS 3.4.4
+QTS c4.5.4
+Synology Router Manager (SRM) 1.0-5781
+Windows 10 Home Single Language 22000
+Windows 7 Home Basi 7601 Service Pack 1
+Windows 7 Ultimat 7601 Service Pack 1
+Windows Storage Server 2012 Workgroup 9200
+MikroTik RouterOS 3.15
+MikroTik RouterOS 4.4
+MikroTik RouterOS 6.22rc6
+MikroTik RouterOS 6.42rc1
+PAN-OS 6.0.3
+PAN-OS 6.0.5-h3
+PAN-OS 7.0.15
+PAN-OS 7.0.4
+PAN-OS 7.0.9
+QTS 3.3.1
+QTS c4.5.5
+SLES
+Synology DiskStation Manager (DSM) 4.0-2263
+Windows 10 Education 17763
+Windows 10 Home Single Language 17134
+Windows 10 Pro for Workstations 19041
+Windows 7 Home Premium 7600
+Windows 7 Professiona 7601 Service Pack 1
+Windows Server (R) 2008 Enterprise 6001 Service Pack 1
+Windows Server 2003 3790 Service Pack 1
+Windows Server 2022 Standard Evaluation 20348
+Windows Storage Server 2012 R2 Workgroup 9600
+Keenetic Extra
+Keenetic Giga
+MikroTik RouterOS 3.14
+MikroTik RouterOS 3.4
+MikroTik RouterOS 3.6
+MikroTik RouterOS 6.0rc12
+MikroTik RouterOS 6.21rc18
+MikroTik RouterOS 6.44beta12
+MikroTik RouterOS 6.45beta27
+MikroTik RouterOS 6.45beta53
+MikroTik RouterOS 7.0.9
+PAN-OS 6.0.0
+PAN-OS 6.0.9
+PAN-OS 6.1.1
+PAN-OS 6.1.5
+PAN-OS 6.1.6
+QTS 3.8.0
+QTS 4.0.1
+QTS 4.0.2.RU
+Synology DiskStation Manager (DSM) 3.0-1337
+Synology DiskStation Manager (DSM) 4.2-3247
+Synology DiskStation Manager (DSM) 4.2-3251
+Synology Router Manager (SRM) 1.0.3-6030
+Windows 10 Enterprise LTSC 2021 19044
+Windows 10 Enterprise N 14393
+Windows 10 Home Single Language 15063
+Windows 10 Home Single Language 17763
+Windows 10 Pro 22543
+Windows 7 Home Basic 7600
+Windows 7 RTM Black Edtion 7601 Service Pack 1
+Windows 8.1 Single Languag 9600
+Windows Server 2008
+Windows Server 2012 R2 Standard 9600 Service Pack 1
+Windows Storage Server 2008 R2 Standard 7601 Service Pack 1
+Windows Storage Server 2008 R2 Workgroup 7601 Service Pack 1
+MikroTik RouterOS 2.9.41
+MikroTik RouterOS 4.2
+MikroTik RouterOS 4.7
+MikroTik RouterOS 6.0rc1
+MikroTik RouterOS 6.20rc1
+MikroTik RouterOS 6.43rc18
+MikroTik RouterOS 6.44beta74
+MikroTik RouterOS 6.45beta29
+MikroTik RouterOS 6.45beta5
+MikroTik RouterOS 6.46beta15
+MikroTik RouterOS 7.0.3
+MikroTik RouterOS ns2.9.27
+MikroTik RouterOS ns2.9.35
+MikroTik RouterOS ns2.9.43
+PAN-OS 6.0.2
+PAN-OS 6.1.20
+PAN-OS 7.0.8
+PAN-OS 7.1.19
+PAN-OS 8.0.1
+QTS 1.3.0
+QTS 3.3.2
+QTS 3.8.2.Ru
+QTS 3.8.4
+Synology DiskStation Manager (DSM) 3.1-1605
+Synology DiskStation Manager (DSM) 3.1-1637
+Synology DiskStation Manager (DSM) 3.2-1979
+Synology DiskStation Manager (DSM) 4.2-3214
+Windows 10 Education 14393
+Windows 10 Home Single Language 10586
+Windows 10 IoT Enterprise 18363
+Windows 10 Pr 14393
+Windows 10 Pro 22526
+Windows 10 Pro Education 19041
+Windows 10 Pro N 19044
+Windows 2000
+Windows 7 Ultimate 7601 Service Pack 3
+Windows 8.1 Single Languag 14393
+ZyXEL Keenetic Ultra
+EMC-SNAS:T8.0.1.112
+Hyper-V Server 2019 17763
+I5OS V7R1M0
+IOS 12.3/12.4
+MikroTik RouterOS 2.9.26
+MikroTik RouterOS 2.9.50
+MikroTik RouterOS 2.9.51
+MikroTik RouterOS 3.0rc13
+MikroTik RouterOS 3.0rc8
+MikroTik RouterOS 3.27
+MikroTik RouterOS 5.0rc7
+MikroTik RouterOS 5.3
+MikroTik RouterOS 6.21rc16
+MikroTik RouterOS 6.23rc4
+MikroTik RouterOS 6.28rc3
+MikroTik RouterOS 6.39rc69
+MikroTik RouterOS 6.41rc47
+MikroTik RouterOS 6.41rc52
+MikroTik RouterOS 6.41rc55
+MikroTik RouterOS 6.43rc28
+MikroTik RouterOS 6.45beta18
+MikroTik RouterOS 6.6rc1
+MikroTik RouterOS 6.8
+PAN-OS 6.0.1
+PAN-OS 6.1.21
+PAN-OS 7.0.2
+PAN-OS 8.0.11-h1
+QTS 1.0.0
+QTS 3.1.2
+QTS 3.2.8
+QTS 3.5.1
+QTS 3.8.3.Ru
+QTS h4.5.0
+SunOS 5.11 11.3
+Synology DiskStation Manager (DSM) 3.2-1958
+Synology DiskStation Manager (DSM) 3.2-1968
+Synology DiskStation Manager (DSM) 4.2-3243
+Synology DiskStation Manager (DSM) 4.3-4244
+Synology DiskStation Manager (DSM) 6.1.1-15095
+Synology DiskStation Manager (DSM) 6.2.2-25044
+Windows 10 Enterprise N 19041
+Windows 10 Enterprise N 19044
+Windows 10 Enterprise N 2015 LTSB 10240
+Windows 10 Enterprise for Virtual Desktops 19042
+Windows 10 Enterprise for Virtual Desktops 19043
+Windows 10 Home Single Language 16299
+Windows 10 Pro 17133
+Windows 10 Pro 21996
+Windows 10 Pro 22533
+Windows 10 Pro Education 19043
+Windows 10 Pro N 18363
+Windows 10 Pro for Workstations 18363
+Windows 7 Ultimate 7601 Service Pack 2
+Windows 8.1 Single Languag 19043
+Windows MultiPoint Server 2011 7601 Service Pack 1
+Windows Server 2022 Datacenter 20344
+Windows Storage Server 2008 R2 Essentials 7601 Service Pack 1
+ZyXEL Keenetic Giga III
+ZyXEL Keenetic II
+Zyxel Keenetic Extra II
+MikroTik RouterOS 2.9.40
+MikroTik RouterOS 3.0
+MikroTik RouterOS 3.3
+MikroTik RouterOS 4.0beta4
+MikroTik RouterOS 4.1
+MikroTik RouterOS 5.0rc11
+MikroTik RouterOS 5.15rc1
+MikroTik RouterOS 6
+MikroTik RouterOS 6.
+MikroTik RouterOS 6.0rc4
+MikroTik RouterOS 6.16rc17
+MikroTik RouterOS 6.19rc4
+MikroTik RouterOS 6.25rc1
+MikroTik RouterOS 6.26rc7
+MikroTik RouterOS 6.45beta21
+MikroTik RouterOS 6.46rc3
+MikroTik RouterOS ns2.9.26
+MikroTik RouterOS ns2.9.30
+MikroTik RouterOS ns2.9.34
+MikroTik RouterOS ns2.9.40
+MikroTik RouterOS ns2.9.44
+PAN-OS 6.0.4
+PAN-OS 6.0.5
+PAN-OS 6.1.0
+PAN-OS 6.1.11
+PAN-OS 6.1.18
+PAN-OS 6.1.2
+PAN-OS 7.0.14
+PAN-OS 7.0.17
+PAN-OS 7.0.5
+PAN-OS 7.0.7
+PAN-OS 7.1.1
+QTS 2.1.1.0775
+QTS 3.1.0
+QTS 3.1.1
+QTS 3.2.7
+QTS 3.4.3
+QTS 3.5.2.Ru
+QTS 3.6.0
+QTS 3.7.1.Ru
+QTS 5.5.0
+QTS c4.5.2
+SonicWall SonicOS 11.x
+Synology DiskStation Manager (DSM) 3.0-1342
+Synology DiskStation Manager (DSM) 3.2-1963
+Synology DiskStation Manager (DSM) 3.2-1981
+Synology DiskStation Manager (DSM) 4.0-2262
+Synology DiskStation Manager (DSM) 6.1-15022
+Windows (R) Storage Server 2008 Basic 6003 Service Pack 2
+Windows 10 Education 16299
+Windows 10 Education 18362
+Windows 10 Education 22000
+Windows 10 Education N 19042
+Windows 10 Enterprise N 17134
+Windows 10 Enterprise N 17763
