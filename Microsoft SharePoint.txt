@@ -480,7 +480,7 @@ sites/{SITENAME}/_layouts/15/AccessDenied.aspx
 sites/{SITENAME}/_layouts/15/AccessDenied.aspx?Source=https%3A%2F%2Fmyteams%2E{COMPANYNAME}%2Ecom%2Fsites%2F{COUNTRY}%5FIT%5FTeamsite&correlation=
 sites/{SITENAME}/_layouts/15/AccessDenied.aspx?Source=https%3a%2f%2fmyteams.{COMPANYNAME}.com%2fsites%2f{SITENAME}&correlation=UUID
 sites/{SITENAME}/_layouts/15/Authenticate.aspx
-sites/{SITENAME}/_layouts/15/Authenticate.aspx?Source=%2Fsites%2FGreaterChina%5FIT%5FTeamsite%2F%5Flayouts%2F15%2Fviewlsts%2Easpx
+sites/{SITENAME}/_layouts/15/Authenticate.aspx?Source=%2Fsites%2F{COUNTRY}%5FIT%5FTeamsite%2F%5Flayouts%2F15%2Fviewlsts%2Easpx
 sites/{SITENAME}/_layouts/15/SignOut.aspx
 sites/{SITENAME}/_layouts/15/WopiFrame.aspx
 sites/{SITENAME}/_layouts/15/WopiFrame.aspx?sourcedoc=UUID&action=interactivepreview
