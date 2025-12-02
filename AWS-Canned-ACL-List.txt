@@ -1,0 +1,11 @@
+private
+public-read
+public-read-write
+aws-exec-red
+authenticated-read
+bucket-owner-read
+bucket-owner-full-control
+log-delivery-write
+
+
+#Sometimes passed in POST data or in the x-amz-acl request header
